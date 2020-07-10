@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "C:\\xampp\\htdocs\\TB"
+		},
+		{
+			"path": "C:\\xampp\\htdocs\\moviex"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TB"
+	}
+}
